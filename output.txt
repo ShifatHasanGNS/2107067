@@ -1,0 +1,749 @@
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  The Library  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Main Page  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [0] Exit
+ - [1] Goto Admin Panel  (to add librarian and librarian related functionalities)
+ - [2] Goto Library      (to add book/reader and book/reader related functionalities)
+
+Select an option :  1
+
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Admin Panel  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add Librarian
+ - [2] Show Librarian By ID
+ - [3] Show All Librarians
+ - [4] Resign Librarian
+
+Select an option :  1
+
+
+Librarian's Name : Librarian One
+Librarian's ID   : l101
+
+
+New Librarian Added Successfully!
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Admin Panel  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add Librarian
+ - [2] Show Librarian By ID
+ - [3] Show All Librarians
+ - [4] Resign Librarian
+
+Select an option :  1
+
+
+Librarian's Name : Librarian Two
+Librarian's ID   : l102
+
+
+New Librarian Added Successfully!
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Admin Panel  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add Librarian
+ - [2] Show Librarian By ID
+ - [3] Show All Librarians
+ - [4] Resign Librarian
+
+Select an option :  3
+
+
+
+
+Librarian List:
+
+Librarian's Name : Librarian One
+Librarian's ID   : l101
+
+
+Librarian's Name : Librarian Two
+Librarian's ID   : l102
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Admin Panel  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add Librarian
+ - [2] Show Librarian By ID
+ - [3] Show All Librarians
+ - [4] Resign Librarian
+
+Select an option :  2
+
+
+Enter Librarian ID :  l102
+
+
+Librarian's Name : Librarian Two
+Librarian's ID   : l102
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Admin Panel  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add Librarian
+ - [2] Show Librarian By ID
+ - [3] Show All Librarians
+ - [4] Resign Librarian
+
+Select an option :  0
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Main Page  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [0] Exit
+ - [1] Goto Admin Panel  (to add librarian and librarian related functionalities)
+ - [2] Goto Library      (to add book/reader and book/reader related functionalities)
+
+Select an option :  2
+
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Library  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Book Section    (For Book Related Functionalities)
+ - [2] Reader Section  (For Reader Related Functionalities)
+
+Select an option :  1
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  1
+
+
+Book ID      : book 1
+Book Name    : book one
+Book Author  : a one
+Total Copies : 7
+
+
+New Book Added Successfully!
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  1
+
+
+Book ID      : B101
+Book Name    : Book Two
+Book Author  : Author 
+Total Copies : 5
+
+
+New Book Added Successfully!
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  4
+
+
+
+
+Book List:
+
+Book ID                    : B101
+Book Name                  : Book Two
+Author                     : Author
+Total Number of Books      : 5
+Number of Books in Shelf   : 5
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+Book ID                    : book 1
+Book Name                  : book one
+Author                     : a one
+Total Number of Books      : 7
+Number of Books in Shelf   : 7
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  3
+
+
+Enter Book ID :  book 1
+
+
+Book ID                    : book 1
+Book Name                  : book one
+Author                     : a one
+Total Number of Books      : 7
+Number of Books in Shelf   : 7
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  5
+
+
+
+
+Book List:
+
+Book ID                    : B101
+Book Name                  : Book Two
+Author                     : Author
+Total Number of Books      : 5
+Number of Books in Shelf   : 5
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+Book ID                    : book 1
+Book Name                  : book one
+Author                     : a one
+Total Number of Books      : 7
+Number of Books in Shelf   : 7
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  2
+
+
+Enter Book ID  :  B101
+Enter Quantity :  6
+
+
+Successfully added more books to the library.
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  4
+
+
+
+
+Book List:
+
+Book ID                    : B101
+Book Name                  : Book Two
+Author                     : Author
+Total Number of Books      : 11
+Number of Books in Shelf   : 11
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+Book ID                    : book 1
+Book Name                  : book one
+Author                     : a one
+Total Number of Books      : 7
+Number of Books in Shelf   : 7
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  6
+
+
+Enter Book ID  :  book 1
+Enter Quantity :  2
+
+
+Removed 2 books named 'book one' and book id 'book 1' from the library.
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  4
+
+
+
+
+Book List:
+
+Book ID                    : B101
+Book Name                  : Book Two
+Author                     : Author
+Total Number of Books      : 11
+Number of Books in Shelf   : 11
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+Book ID                    : book 1
+Book Name                  : book one
+Author                     : a one
+Total Number of Books      : 5
+Number of Books in Shelf   : 5
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  0
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Library  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Book Section    (For Book Related Functionalities)
+ - [2] Reader Section  (For Reader Related Functionalities)
+
+Select an option :  2
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  1
+
+
+Enter Reader's Name : reader one
+Enter Reader's ID   : r101
+
+
+New Reader Added Successfully!
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  1
+
+
+Enter Reader's Name : reader two
+Enter Reader's ID   : r111
+
+
+New Reader Added Successfully!
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  3
+
+
+
+
+Reader List:
+
+Reader's Name : reader one
+Reader's ID   : r101
+Book IDs      : []
+
+
+
+Reader's Name : reader two
+Reader's ID   : r111
+Book IDs      : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  4
+
+
+Enter Reader ID :  r101
+Enter Book ID   :  book 1
+
+
+
+
+Reader named 'reader one' with id 'r101' is now reading book named 'book one' with id 'book 1'.
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  2
+
+
+Enter Reader ID :  r101
+
+
+Reader's Name : reader one
+Reader's ID   : r101
+Book IDs      : [book 1]
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  5
+
+
+Enter Reader ID :  r101
+Enter Book ID   :  book 1
+
+
+
+
+After Reading, Reader named 'reader one' with id 'r101' has returned book named 'book one' with id 'book 1'.
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  3
+
+
+
+
+Reader List:
+
+Reader's Name : reader one
+Reader's ID   : r101
+Book IDs      : []
+
+
+
+Reader's Name : reader two
+Reader's ID   : r111
+Book IDs      : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  6
+
+
+Enter Reader ID :  r111
+
+
+Reader named 'reader two' with id 'r111 has returned all books.
+
+
+
+Reader named 'reader two' with id 'r111 has been removed.
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  3
+
+
+
+
+Reader List:
+
+Reader's Name : reader one
+Reader's ID   : r101
+Book IDs      : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Reader Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Reader
+ - [2] Show Reader By ID
+ - [3] Show List Of All Readers
+ - [4] Take A Book
+ - [5] Return A Book After Reading
+ - [6] Remove Reader By ID
+
+Select an option :  0
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Library  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Book Section    (For Book Related Functionalities)
+ - [2] Reader Section  (For Reader Related Functionalities)
+
+Select an option :  1
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  4
+
+
+
+
+Book List:
+
+Book ID                    : B101
+Book Name                  : Book Two
+Author                     : Author
+Total Number of Books      : 11
+Number of Books in Shelf   : 11
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+Book ID                    : book 1
+Book Name                  : book one
+Author                     : a one
+Total Number of Books      : 5
+Number of Books in Shelf   : 5
+Number of Books Being Read : 0
+Reader IDs                 : []
+
+
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  6
+
+
+Enter Book ID  :  book
+Enter Quantity :  4
+
+
+Book with id 'book' does not exist.
+
+
+▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟  Book Section  ▛▜▙▟▛▜▙▟▛▜▙▟▛▜▙▟
+
+ - [-1] Exit
+ - [0] Go Back
+ - [1] Add New Book
+ - [2] Add More Copies Of A Book
+ - [3] Show Book By ID
+ - [4] Show List Of All Books
+ - [5] Show List Of Available Books
+ - [6] Remove Book By ID
+
+Select an option :  6
+
+
+Enter Book ID  :  book 1
+Enter Quantity :  5
+
+
+Removed 5 books named 'book one' and book id 'book 1' from the library.
