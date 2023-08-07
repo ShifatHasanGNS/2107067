@@ -11,4 +11,4 @@
 
 # 
 
-`Library Management SystemKUET  /  CSE - 2021  /  First Year Second Semester  /  OOP Project With C++` 
+`Library Management System / KUET - CSE - 2021  /  First Year Second Semester  /  OOP Project With C++` 
